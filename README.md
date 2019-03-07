@@ -1,4 +1,4 @@
-# NordeaGo - Golang wrapper for Nordea Open Banking
+# NordeaGo - Unofficial Golang wrapper for Nordea Open Banking
 
 [![GoDoc](https://godoc.org/github.com/markustenghamn/nordeago?status.svg)](https://godoc.org/github.com/markustenghamn/nordeago)
 [![Go Report Card](https://goreportcard.com/badge/github.com/markustenghamn/nordeago)](https://goreportcard.com/report/github.com/markustenghamn/nordeago)
